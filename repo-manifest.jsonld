@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-wwt/commit/2be42f065687a2fabad65b1b0583d858e9c3ea73",
       "git:hexsha": "2be42f065687a2fabad65b1b0583d858e9c3ea73",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T02:50:53.795833+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-wwt/commit/429946c567aefcde7e080749b0ae6cdceac2fcae",
